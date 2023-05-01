@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import { render } from "react-dom";
 
 function VbyensCounter() {
   const now = new Date();
